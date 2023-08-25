@@ -1,0 +1,93 @@
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\appsettings.json
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\ProductsWithMongo.exe
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\ProductsWithMongo.deps.json
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\ProductsWithMongo.runtimeconfig.json
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\ProductsWithMongo.pdb
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\Snappier.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.csproj.AssemblyReference.cache
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.AssemblyInfoInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.AssemblyInfo.cs
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.csproj.CoreCompileInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\staticwebassets\msbuild.ProductsWithMongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsWithMongo.props
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsWithMongo.props
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsWithMongo.props
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\scopedcss\bundle\ProductsWithMongo.styles.css
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.csproj.CopyComplete
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\refint\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.pdb
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ProductsWithMongo.genruntimeconfig.cache
+C:\Users\Jayant\Desktop\C# Workspace\ProductsWithMongo\obj\Debug\net7.0\ref\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.csproj.AssemblyReference.cache
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.AssemblyInfoInputs.cache
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.AssemblyInfo.cs
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.csproj.CoreCompileInputs.cache
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\refint\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.pdb
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\appsettings.json
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\ProductsWithMongo.exe
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\ProductsWithMongo.deps.json
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\ProductsWithMongo.runtimeconfig.json
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\ProductsWithMongo.pdb
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\Snappier.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\staticwebassets\msbuild.ProductsWithMongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsWithMongo.props
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsWithMongo.props
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsWithMongo.props
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\scopedcss\bundle\ProductsWithMongo.styles.css
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.csproj.CopyComplete
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ProductsWithMongo.genruntimeconfig.cache
+C:\Users\Jayant\Desktop\projects\mongocrud\obj\Debug\net7.0\ref\ProductsWithMongo.dll
+C:\Users\Jayant\Desktop\projects\mongocrud\bin\Debug\net7.0\AutoMapper.dll
